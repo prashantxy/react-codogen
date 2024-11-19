@@ -1,0 +1,36 @@
+{
+  "name": "react-codogen",
+  "version": "1.0.0",
+  "description": "A package that generates React component code based on natural language prompts.",
+  "main": "src/generator.js", 
+  "scripts": {
+    "test": "jest",
+    "build": "babel src -d lib"
+  },
+  "keywords": [
+    "react",
+    "code generator",
+    "natural language",
+    "component",
+    "automation"
+  ],
+  "author": "Prashant Dubey",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashantxy/react-codogen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prashantxy/react-codogen/issues"
+  },
+  "homepage": "https://github.com/prashantxy/react-codogen#readme"
+}
