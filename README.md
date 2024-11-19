@@ -1,6 +1,6 @@
 # React Codogen by Prashant 
 
-`react-codogen` is a tool to generate React component code based on prompts. It automates the creation of React components by processing user input into boilerplate code, making React development faster and more efficient.
+`react-codogen` is a tool to generate React component code based on prompts. It automates the creation of React components by processing user input into boilerplate code, making React development faster and more efficient.to use it firstly set up your node environment and then use it and generate your code on prompts
 
 ## Features
 
@@ -14,3 +14,4 @@ You can install `react-codogen` as a package via npm:
 
 ```bash
 npm install react-codogen
+
